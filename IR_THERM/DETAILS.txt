@@ -1,0 +1,5 @@
+This is the PCB of an IR based Thermometer used to measure the surface temperature of
+various objects like human body, Metallic surfaces, PCB board surfaces etc. Was very 
+popular during the COVID widespread.
+
+Technologies used : USB, IR, UART, SPI, LCD

@@ -1,0 +1,4 @@
+A college project Design for a variable power supply for various applications, that require
+voltage supply from 3.3V to 24V
+
+Key Components : MOSFET, LDO, OP-AMP, LED, Rectifier.

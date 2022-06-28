@@ -1,0 +1,5 @@
+These PCBs are a part of a Ground data concentrator unit which collects and stores the 
+data received from the RF based weather monitoring system, which is released into atmosphere
+and continuosly measures the Climatic conditions of the surrounding area.
+
+Interfaces used : RS485, UART, RF-Communication, USB, SPI, I2C, GPS

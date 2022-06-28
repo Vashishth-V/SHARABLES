@@ -1,0 +1,7 @@
+This is a layout of a portable USB based temperature logger that can monitor the Temperature 
+conditions of a small area. Specifically used for various cold chain management industries to 
+monitor the temperature variations in critical transportation of medicines, Food etc. 
+The device is battery operated and can log data upto 10000 readings. The device stores 
+the reading and can be accessed with the help of USB interface.
+
+Technology used : Digital Temperature Sensor, SPI, USB, RS485, Lithium Battery.

@@ -1,0 +1,5 @@
+These PCBs are a part of a larger unit of Automated weather station that is placed
+on highways, fields and hills. The PCBs consist of Temeprature Sensor, Relative 
+Humidity Sensor, and Atmospheric pressure sensor.
+
+Interfaces used : RS485, USB, RS232, UART

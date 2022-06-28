@@ -1,0 +1,7 @@
+These are PCB for two versions of an RF based ascending weather monitor device, this device
+is launched into the atmosphere with the help of a Hydrogen baloon. It measures the atmospheric 
+conditions of the surrounding area to provide weather prediction data and atmospheric related 
+information for defense purposes. The data is sent to a Ground recording station where it is 
+stored and analysed for future.
+
+Technologies used : RF, UART, USB, SPI, RS485, GPS

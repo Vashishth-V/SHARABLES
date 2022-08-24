@@ -1,0 +1,6 @@
+This is a layout of MOTOR motherboard that can drive two motors, and a 24V lamp. The 
+board uses a LAN basesd interface. Generally used in robotics systems that are controlled
+by a computer system. 
+
+The board is directly supplied with AC mains supply, and can be programmed in order to get 
+different functionalities.
